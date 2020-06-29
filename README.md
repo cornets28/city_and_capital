@@ -1,28 +1,34 @@
 # CityCapitals
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/city_capitals`. To experiment with that code, run `bin/console` for an interactive prompt.
+## Description
 
-TODO: Delete this and the text above, and describe your gem
+This is a ruby gem app. It allows its users to find cities/Countries with their respective capitals. For instance, `Haiti` is the country. It's capital is `Port-au-Prince`.
 
 ## Installation
 
-Add this line to your application's Gemfile:
+- To run this gem in your local computer, do:
 
-```ruby
-gem 'city_capitals'
-```
+* `git clone git@github.com:CornetS28/city_and_capital.git`
+* `cd city_and_capital`
+* run `ruby bin/city-capitals`
 
-And then execute:
+- To experiment with that code, run `bin/console`
 
-    $ bundle
+- To use this gem in your Ruby application, do:
 
-Or install it yourself as:
+* Add this line to your application's Gemfile:
 
-    $ gem install city_capitals
+        ```ruby
+            gem 'city_capitals'
+        ```
 
-## Usage
+* And then execute:
 
-TODO: Write usage instructions here
+  \$ `bundle`
+
+* Or install it yourself as:
+
+  \$ `gem install city_capitals`
 
 ## Development
 
