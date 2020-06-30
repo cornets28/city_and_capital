@@ -44,7 +44,7 @@
 
 Gem::Specification.new do |s|
   s.name = 'city_capitals'
-  s.version = CityCapitals::VERSION
+  s.version = '1.0.1'
   s.date = '2020-06-29'
   s.summary = 'This app can populate the cities and their capitals'
   s.authors = ['Samuel Cornet']
