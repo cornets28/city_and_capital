@@ -1,4 +1,4 @@
-# CityCapitals
+# CityAndCapitals
 
 ## Description
 
